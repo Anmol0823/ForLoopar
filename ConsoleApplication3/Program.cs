@@ -68,7 +68,7 @@ namespace ConsoleApplication3
             }
             */
             //Övning 6
-            Console.WriteLine("Mata in ett Heltal")
+            Console.WriteLine("Mata in ett Heltal");
         }
     }
 }
